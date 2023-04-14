@@ -22,3 +22,4 @@ public class file3 {
         System.out.println("Second number = " + second);
     }
 }
+Stashing Completed

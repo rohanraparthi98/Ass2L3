@@ -24,3 +24,5 @@ public class file3 {
 }
 Stashing Completed
 in codegit
+12345
+Code added for checking hardreset
